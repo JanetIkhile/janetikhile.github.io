@@ -10,7 +10,10 @@ redirect_from:
 
 I am PhD student in the [School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). I work with professor Vineet Pandey on human-computer interaction research. 
 
-
+Education:
+======
+Ph.D. in Computing, [University of Utah](https://www.utah.edu/) - 2023-Current.                  
+BSc. in Industrial Mathematics, [Covenant University](https://covenantuniversity.edu.ng/), Nigeria.
 
 <!-- A data-driven personal website
 ======
