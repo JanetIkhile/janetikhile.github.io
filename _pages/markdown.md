@@ -1,13 +1,24 @@
 ---
+permalink: /research/
+title: "Research"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
+---
+My Research focuses on building tools that help to assess motor impairments in individuals with disabilities. The research takes an approach of engaging with the key stakeholders (neurologists specializing in movements disorders, care-givers, patients, other healthcare professionals). By closely collaborating with them, I aim to understand their current workflows and design solutions that not only benefit them directly but also contribute to enhancing overall patient outcomes.
+
+
+<!-- ---
 permalink: /markdown/
 title: "Markdown"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
----
+--- -->
 
-## Locations of key files/directories
+<!-- ## Locations of key files/directories
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
@@ -199,4 +210,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 ### Variable Tag
 
-This allows you to denote <var>variables</var>.
+This allows you to denote <var>variables</var>. -->

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD student in the [School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). I work with professor Vineet Pandey on human-computer interaction research. 
+I am PhD student in the [School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). I work with professor Vineet Pandey on human-computer interaction research. My research cuts across human-centered computing and medical sciences. I am motivated to build online tools that can assess motor impairments in individuals with disabilities.
 
 Education:
 ======
