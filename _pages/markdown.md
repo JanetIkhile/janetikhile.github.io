@@ -9,6 +9,7 @@ redirect_from:
 My Research focuses on building tools that help to assess motor impairments in individuals with disabilities. The research takes an approach of engaging with the key stakeholders (neurologists specializing in movements disorders, care-givers, patients, other healthcare professionals). By closely collaborating with them, I aim to understand their current workflows and design solutions that not only benefit them directly but also contribute to enhancing overall patient outcomes.
 
 
+
 <!-- ---
 permalink: /markdown/
 title: "Markdown"
