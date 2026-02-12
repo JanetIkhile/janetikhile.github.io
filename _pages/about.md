@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD student in the [School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). I work with professor Vineet Pandey on human-computer interaction research. My research cuts across human-centered computing and medical sciences. I am motivated to build online tools that can assess motor impairments in individuals with disabilities.
+I am PhD student at the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/), advised by [Professor Vineet Pandey](https://vineetp13.github.io/). My work focuses on designing digital tools to support clinicians in the assessment and care of movement disorders. I take a human-centered design approach, studying clinical workflows and decision-making processes to identify where technology can improve care. My current work explores touchscreen-based tasks for the assessment of Parkinson’s disease.
 
 Education:
 ======
 Ph.D. in Computing, [University of Utah](https://www.utah.edu/) - 2023-Current.                  
 BSc. in Industrial Mathematics, [Covenant University](https://covenantuniversity.edu.ng/), Nigeria.
 
-Projects:
+Research and Submissions:
 =====
-Application of Differential Equations in the Vibration of Beams.   
-Biosmart Application for Sim Registrations.    
-NIMC NIN Application.
+Paper: [Understanding Specialists’ Workflow and Decision-Making for Designing Digital Tools](https://vineetp13.github.io/papers/group/stash/2025-06-Paper-Janet-Specialists-Workflow.pdf)
 
-Skills:
+Abstract: [Supporting Movement Disorders Specialists with Digital Tools that Integrate with their Workflows](https://www.mdsabstracts.org/abstract/supporting-movement-disorders-specialists-with-digital-tools-that-integrate-with-their-workflows/). Movement Disorder Society [International Congress 2025](https://www.mdscongress.org/), Honolulu, HI
+
+<!-- Skills:
 =====
 Back-End Development - Java - Spring Boot.   
 Front-End Development - HTML5, CSS (Bootstrap), Javascript.    
@@ -29,7 +29,7 @@ Database Management - SQL, PostgreSQL, MongoDB.
 Version Control System – Github.   
 API Development - Proficient in REST APIs     
 Design Knowledge - OOP Constructs.     
-Test- Unit/Integration Tests, Software Testing, Automation Testing.
+Test- Unit/Integration Tests, Software Testing, Automation Testing. -->
 
 <!-- A data-driven personal website
 ======
