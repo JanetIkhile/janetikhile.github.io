@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-My Research focuses on building tools that help to assess motor impairments in individuals with disabilities. The research takes an approach of engaging with the key stakeholders (neurologists specializing in movements disorders, care-givers, patients, other healthcare professionals). By closely collaborating with them, I aim to understand their current workflows and design solutions that not only benefit them directly but also contribute to enhancing overall patient outcomes.
+My research focuses on designing digital tools to support the assessment and care of movement disorders. Using a human-centered design approach, I work closely with key stakeholders—including movement disorder specialists, healthcare professionals, caregivers, and patients—to understand their workflows and decision-making processes. By grounding technology design in real clinical practice, I aim to develop tools that are practical, usable, and capable of improving patient care.
 
 
 

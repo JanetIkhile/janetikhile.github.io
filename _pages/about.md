@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD student at the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/), advised by [Professor Vineet Pandey](https://vineetp13.github.io/). My work focuses on designing digital tools to support clinicians in the assessment and care of movement disorders. I take a human-centered design approach, studying clinical workflows and decision-making processes to identify where technology can improve care. My current work explores touchscreen-based tasks for the assessment of Parkinson’s disease.
+I am a PhD student at the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/), advised by [Professor Vineet Pandey](https://vineetp13.github.io/). My work focuses on designing digital tools to support clinicians in the assessment and care of movement disorders. I take a human-centered design approach, studying clinical workflows and decision-making processes to identify where technology can improve care. My current work explores touchscreen-based tasks for the assessment of Parkinson’s disease.
 
 Education:
 ======
